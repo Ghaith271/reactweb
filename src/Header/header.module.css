@@ -1,0 +1,186 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 140px;
+  background-color: #4867d6;
+}
+
+.services {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.services-description {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.dental {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.description2 {
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dental1 {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin-top: -135px;
+  margin-left: 290px;
+}
+
+.description3 {
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 290px;
+}
+
+.dental2 {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin-top: -135px;
+  margin-left: 600px;
+}
+
+.description4 {
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 600px;
+}
+
+.dental3 {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin-top: -135px;
+  margin-left: 860px;
+}
+
+.description5 {
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 860px;
+}
+
+.imgin {
+  width: 751px;
+  height: 558px;
+  margin-top: 100px;
+}
+
+.sewf {
+  height: 980px;
+  position: relative;
+}
+
+.bac {
+  background-color: white;
+  width: 500px;
+  height: 100px;
+  position: absolute;
+  top: 1000px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  text-align: center;
+  padding: 20px;
+}
+
+.freepik2 {
+  margin-left: -200px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+}
+
+.fre2 {
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.yes {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dic {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-top: 200px;
+  margin-left: -300px;
+  color: #333;
+}
+
+.freepik3 {
+  margin-left: -200px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+}
+
+.fre3 {
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.true-img {
+  width: 20px;
+}
+
+.Permanent {
+  margin-top: -25px;
+  margin-left: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+}
+
+.all-true {
+  margin-top: -160px;
+  margin-left: 600px;
+}
+
+.all-true2 {
+  margin-left: 600px;
+}
+
+.all-true3 {
+  margin-left: 600px;
+}
+
+.all-true4 {
+  margin-left: 600px;
+}
+
+.btn-in {
+  color: white;
+  background-color: #4867d6;
+  padding: 15px 40px;
+  border: none;
+  margin-left: 600px;
+  margin-top: 75px;
+}
+
+.imgc {
+  margin-top: 75px;
+  width: 300px;
+}
+
+.imgc:hover {
+  filter: grayscale(30%);
+  transition: 0.5s;
+}

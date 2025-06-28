@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+
+.navbb{
+  background-color: #4867d6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -1px;
+}
+
+
+
+.links {
+  color: white;
+  padding-left: 35px;
+  list-style: none;
+  text-decoration: none;
+  margin: 15px;
+  background-color: #4867d6;
+  
+}
+
+.navin {
+  margin-top: 60px; /* إضافة هامش لتحت الشريط العلوي */
+  padding: 20px;
+}
+
+.navin img {
+  margin-top: -35px;
+}
+
+.hight {
+  margin-left: 900px;
+  margin-top: -500px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.welcome {
+  margin-left: 900px;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.freepik {
+  margin-left: 900px;
+  color: black;
+}
+
+.fre {
+  color: black;
+}
+
+.contact {
+  cursor: pointer;
+  background-color: #4867d6;
+  color: white;
+  border: none;
+  padding: 10px 50px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-left: 900px;
+  margin-top: 50px;
+}
+
+

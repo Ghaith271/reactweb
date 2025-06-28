@@ -1,0 +1,143 @@
+.testimonialsSection {
+  width: 100%; /* بدل 100vw عشان ما يطلع scroll أفقي */
+  background-color: #4c6ef5;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  position: relative;
+  box-sizing: border-box; /* للحشو يكون ضمن العرض */
+  top: 1070px;
+}
+
+.testimonialsSection h2 {
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+.testimonialsContainer {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  flex-wrap: nowrap;
+  max-width: 1200px;
+  margin: 0 auto 60px auto;
+  overflow: hidden; /* منع تجاوز المحتوى */
+}
+
+.testimonial {
+  max-width: 250px;
+  box-sizing: border-box;
+}
+
+.quoteMark {
+  font-size: 40px;
+  opacity: 0.4;
+  margin-bottom: 15px;
+}
+
+.testimonial h3 {
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+}
+
+.testimonial p {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #ddd;
+}
+
+/* الأسهم */
+.navArrows {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+  padding: 0 20px;
+  pointer-events: none; /* السماح بالضغط فقط على الأزرار */
+  box-sizing: border-box;
+}
+
+.arrow {
+  background-color: rgba(255, 255, 255, 0.4);
+  border: none;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  font-size: 22px;
+  color: #4c6ef5;
+  cursor: pointer;
+  pointer-events: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+  transition: background-color 0.3s ease;
+}
+
+.arrow:hover {
+  background-color: white;
+}
+
+.dee {
+  color: black;
+  font-size: 40px;
+  margin-top: 1200px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.freepik4 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+.fre4 {
+  color: #333;
+  font-size: 20px;
+}
+
+.lll {
+  margin-left: 400px;
+}
+
+.input1 {
+  width: 500px;
+  height: 40px;
+  margin-left: 300px;
+  background-color: #ebe9e9;
+  padding: 10px;
+  border: none;
+}
+
+.input2 {
+  width: 500px;
+  height: 40px;
+  margin-left: 300px;
+  margin-top: 25px;
+  background-color: #ebe9e9;
+  padding: 10px;
+  border: none;
+}
+
+.Get {
+  background-color: #4867d6;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 130px;
+  border: none;
+  margin-left: 300px;
+  margin-top: 35px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.imgg {
+  margin-top: -450px;
+  margin-left: 1200px;
+}

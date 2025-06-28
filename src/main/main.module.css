@@ -1,0 +1,112 @@
+.minn {
+  background-color: #4867d6;
+  width: 2000px;
+  height: 350px;
+}
+
+.minnTitle {
+  color: white;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.paragraf {
+  color: rgba(215, 215, 215, 0.5);
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.btn2 {
+  border: 2px solid white;
+  color: white;
+  background: none;
+  padding: 10px 40px;
+  cursor: pointer;
+  margin-left: 900px;
+}
+
+.btn2:hover {
+  background-color: rgba(255, 255, 255, 0.349);
+  transition: 0.5s;
+}
+
+.Dental {
+  margin-left: 350px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+}
+
+.imginnn {
+  margin-left: 350px;
+  width: 550px;
+  height: 417px;
+  margin-top: -20px;
+}
+
+.imgim {
+  position: relative;
+  top: -200px;
+  left: 100px;
+}
+
+.freepik5 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  font-size: 20px;
+  margin-left: 1000px;
+}
+
+.fre5 {
+  color: #333;
+  font-size: 20px;
+}
+
+.ppp {
+  margin-top: -150px;
+  margin-left: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn3 {
+  padding: 10px 50px;
+  background-color: #4867d6;
+  border: none;
+  color: white;
+  margin-left: 1000px;
+  margin-top: 30px;
+}
+
+.img44 {
+  margin-top: 120px;
+  margin-left: 900px;
+}
+
+.freepik6 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  font-size: 20px;
+}
+
+.fre6 {
+  color: #333;
+  font-size: 20px;
+}
+
+.Our {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+}
+
+.nnd {
+  background-color: #ebe9e9;
+  width: 500px;
+  text-align: center;
+  position: relative;
+  top: -150px;
+  left: 500px;
+  padding: 20px;
+}
